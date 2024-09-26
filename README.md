@@ -1,32 +1,28 @@
 # Welcome to My GitHub Profile!
 
-👋 Hi there! I’m [Your Name] - a [Your Profession/Role] from [Your Location].
-
-## 🔭 Currently Working On
-- [Project Name](link) - Brief description of the project.
-
-## 🌱 Learning
-- [Technology/Skill] - Brief description of what you're learning or working on.
+👋 Hi there! I’m JM - a Web Developer from PH.
 
 ## 💼 Experience
-- [Job Title] at [Company Name]
-- [Another Job Title] at [Another Company Name]
-
-## 🌍 Connect with Me
-- [LinkedIn](link)
-- [Twitter](link)
-- [Personal Website](link)
-
-## 📫 How to Reach Me
-- Email: [your-email@example.com]
+- Shopify Developer
 
 ## 🛠️ Technologies & Tools
-- Languages: [List languages]
-- Frameworks: [List frameworks]
-- Tools: [List tools]
-
-## 📄 My Resume
-- [Link to your resume]
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
 
 ## ⚡ Fun Fact
 - [A fun fact about yourself]
