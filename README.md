@@ -24,7 +24,7 @@
 </div>
 
 ## ⚡ Fun Fact
-- [A fun fact about yourself]
+- Curious Engineer 😄
 
 ---
 
