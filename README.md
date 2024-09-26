@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on E-commerce Industry
+- 🌱 I’m currently learning Ruby on Rails
+- 👯 I’m looking to collaborate on projects
+
+
 <!--
 **yzonj/yzonj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
