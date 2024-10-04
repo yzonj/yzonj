@@ -3,7 +3,7 @@
 👋 Hi there! I’m JM - a Web Developer from PH.
 
 ## 💼 Experience
-- Shopify Developer
+- Shopify Developer: July 2023 - Present
 
 ## 🛠️ Technologies & Tools
 <div align="left">
