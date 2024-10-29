@@ -28,7 +28,7 @@
 
 ---
 
-Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or chat.
+Feel free to reach out if you'd like to collaborate or chat. Thank you!
 
 <!--
 **yzonj/yzonj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
